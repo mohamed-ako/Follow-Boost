@@ -9,9 +9,12 @@ Social Media Boosting: Tools and strategies to increase engagement and followers
 Dynamic Animations: Smooth and engaging animations built with JavaScript and CSS.
 User-Friendly Interface: A visually appealing and intuitive interface for easy navigation.
 ## Tech Stack
-Frontend: JavaScript, HTML, CSS
-Animations: CSS animations and JavaScript for dynamic effects
-Installation
+<ul>
+  <li><b>Frontend:</b> JavaScript, HTML, CSS</li>
+  <li><b>Animations:</b> CSS animations and JavaScript for dynamic effects</li>
+</ul>
+ 
+# Installation
 ## Clone the repository:
 
 ### `git clone https://github.com/your-username/follow-boost.git`
@@ -19,5 +22,5 @@ Installation
 ### `Open the index.html file in a web browser to view the application.`
 
 ## Usage
-### Navigate through the interface to explore different tools and features for boosting social media accounts.
-### Interact with the various components to see animations and effects in action.
+Navigate through the interface to explore different tools and features for boosting social media accounts.
+Interact with the various components to see animations and effects in action.
